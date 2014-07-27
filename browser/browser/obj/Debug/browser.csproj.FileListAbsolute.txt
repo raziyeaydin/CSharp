@@ -1,0 +1,9 @@
+c:\users\onur\documents\visual studio 2013\Projects\browser\browser\bin\Debug\browser.exe.config
+c:\users\onur\documents\visual studio 2013\Projects\browser\browser\obj\Debug\browser.Form1.resources
+c:\users\onur\documents\visual studio 2013\Projects\browser\browser\obj\Debug\browser.Properties.Resources.resources
+c:\users\onur\documents\visual studio 2013\Projects\browser\browser\obj\Debug\browser.csproj.GenerateResource.Cache
+c:\users\onur\documents\visual studio 2013\Projects\browser\browser\bin\Debug\browser.exe
+c:\users\onur\documents\visual studio 2013\Projects\browser\browser\bin\Debug\browser.pdb
+c:\users\onur\documents\visual studio 2013\Projects\browser\browser\obj\Debug\browser.exe
+c:\users\onur\documents\visual studio 2013\Projects\browser\browser\obj\Debug\browser.pdb
+C:\Users\Onur\documents\visual studio 2013\Projects\browser\browser\obj\Debug\browser.csprojResolveAssemblyReference.cache
