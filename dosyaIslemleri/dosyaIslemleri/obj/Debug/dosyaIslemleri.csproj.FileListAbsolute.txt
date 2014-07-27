@@ -1,0 +1,18 @@
+c:\users\onur\documents\visual studio 2013\Projects\dosyaIslemleri\dosyaIslemleri\bin\Debug\dosyaIslemleri.exe.config
+c:\users\onur\documents\visual studio 2013\Projects\dosyaIslemleri\dosyaIslemleri\bin\Debug\dosyaIslemleri.exe
+c:\users\onur\documents\visual studio 2013\Projects\dosyaIslemleri\dosyaIslemleri\bin\Debug\dosyaIslemleri.pdb
+c:\users\onur\documents\visual studio 2013\Projects\dosyaIslemleri\dosyaIslemleri\obj\Debug\dosyaIslemleri.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2013\Projects\dosyaIslemleri\dosyaIslemleri\obj\Debug\dosyaIslemleri.Form1.resources
+c:\users\onur\documents\visual studio 2013\Projects\dosyaIslemleri\dosyaIslemleri\obj\Debug\dosyaIslemleri.Properties.Resources.resources
+c:\users\onur\documents\visual studio 2013\Projects\dosyaIslemleri\dosyaIslemleri\obj\Debug\dosyaIslemleri.csproj.GenerateResource.Cache
+c:\users\onur\documents\visual studio 2013\Projects\dosyaIslemleri\dosyaIslemleri\obj\Debug\dosyaIslemleri.exe
+c:\users\onur\documents\visual studio 2013\Projects\dosyaIslemleri\dosyaIslemleri\obj\Debug\dosyaIslemleri.pdb
+E:\staj c#\dosyaIslemleri\dosyaIslemleri\bin\Debug\dosyaIslemleri.exe.config
+E:\staj c#\dosyaIslemleri\dosyaIslemleri\obj\Debug\dosyaIslemleri.exe
+E:\staj c#\dosyaIslemleri\dosyaIslemleri\obj\Debug\dosyaIslemleri.pdb
+E:\staj c#\dosyaIslemleri\dosyaIslemleri\bin\Debug\dosyaIslemleri.exe
+E:\staj c#\dosyaIslemleri\dosyaIslemleri\bin\Debug\dosyaIslemleri.pdb
+E:\staj c#\dosyaIslemleri\dosyaIslemleri\obj\Debug\dosyaIslemleri.csprojResolveAssemblyReference.cache
+E:\staj c#\dosyaIslemleri\dosyaIslemleri\obj\Debug\dosyaIslemleri.Form1.resources
+E:\staj c#\dosyaIslemleri\dosyaIslemleri\obj\Debug\dosyaIslemleri.Properties.Resources.resources
+E:\staj c#\dosyaIslemleri\dosyaIslemleri\obj\Debug\dosyaIslemleri.csproj.GenerateResource.Cache
