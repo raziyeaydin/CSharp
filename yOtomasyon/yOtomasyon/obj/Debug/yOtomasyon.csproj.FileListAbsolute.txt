@@ -1,0 +1,22 @@
+C:\Users\CE_Raziye\Desktop\yOtomasyon\yOtomasyon\bin\Debug\yOtomasyon.exe.config
+C:\Users\CE_Raziye\Desktop\yOtomasyon\yOtomasyon\bin\Debug\yOtomasyon.exe
+C:\Users\CE_Raziye\Desktop\yOtomasyon\yOtomasyon\bin\Debug\yOtomasyon.pdb
+C:\Users\CE_Raziye\Desktop\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\CE_Raziye\Desktop\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.Form1.resources
+C:\Users\CE_Raziye\Desktop\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.Properties.Resources.resources
+C:\Users\CE_Raziye\Desktop\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.csproj.GenerateResource.Cache
+C:\Users\CE_Raziye\Desktop\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.exe
+C:\Users\CE_Raziye\Desktop\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.pdb
+C:\Users\CE_Raziye\Desktop\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.kimlik_bilgisi.resources
+C:\Users\CE_Raziye\Desktop\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.Egitim.resources
+I:\çalışmalarım\ders notları_2_2\veritabanı yönetimi\proje\yOtomasyon\yOtomasyon\bin\Debug\yOtomasyon.exe.config
+I:\çalışmalarım\ders notları_2_2\veritabanı yönetimi\proje\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.exe
+I:\çalışmalarım\ders notları_2_2\veritabanı yönetimi\proje\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.pdb
+I:\çalışmalarım\ders notları_2_2\veritabanı yönetimi\proje\yOtomasyon\yOtomasyon\bin\Debug\yOtomasyon.exe
+I:\çalışmalarım\ders notları_2_2\veritabanı yönetimi\proje\yOtomasyon\yOtomasyon\bin\Debug\yOtomasyon.pdb
+I:\çalışmalarım\ders notları_2_2\veritabanı yönetimi\proje\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.csprojResolveAssemblyReference.cache
+I:\çalışmalarım\ders notları_2_2\veritabanı yönetimi\proje\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.Egitim.resources
+I:\çalışmalarım\ders notları_2_2\veritabanı yönetimi\proje\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.Form1.resources
+I:\çalışmalarım\ders notları_2_2\veritabanı yönetimi\proje\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.kimlik_bilgisi.resources
+I:\çalışmalarım\ders notları_2_2\veritabanı yönetimi\proje\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.Properties.Resources.resources
+I:\çalışmalarım\ders notları_2_2\veritabanı yönetimi\proje\yOtomasyon\yOtomasyon\obj\Debug\yOtomasyon.csproj.GenerateResource.Cache
