@@ -1,0 +1,18 @@
+c:\users\onur\documents\visual studio 2013\Projects\dosyaOlusturma\dosyaOlusturma\bin\Debug\dosyaOlusturma.exe.config
+c:\users\onur\documents\visual studio 2013\Projects\dosyaOlusturma\dosyaOlusturma\bin\Debug\dosyaOlusturma.exe
+c:\users\onur\documents\visual studio 2013\Projects\dosyaOlusturma\dosyaOlusturma\bin\Debug\dosyaOlusturma.pdb
+c:\users\onur\documents\visual studio 2013\Projects\dosyaOlusturma\dosyaOlusturma\obj\Debug\dosyaOlusturma.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2013\Projects\dosyaOlusturma\dosyaOlusturma\obj\Debug\dosyaOlusturma.Form1.resources
+c:\users\onur\documents\visual studio 2013\Projects\dosyaOlusturma\dosyaOlusturma\obj\Debug\dosyaOlusturma.Properties.Resources.resources
+c:\users\onur\documents\visual studio 2013\Projects\dosyaOlusturma\dosyaOlusturma\obj\Debug\dosyaOlusturma.csproj.GenerateResource.Cache
+c:\users\onur\documents\visual studio 2013\Projects\dosyaOlusturma\dosyaOlusturma\obj\Debug\dosyaOlusturma.exe
+c:\users\onur\documents\visual studio 2013\Projects\dosyaOlusturma\dosyaOlusturma\obj\Debug\dosyaOlusturma.pdb
+E:\staj c#\dosyaOlusturma\dosyaOlusturma\bin\Debug\dosyaOlusturma.exe.config
+E:\staj c#\dosyaOlusturma\dosyaOlusturma\obj\Debug\dosyaOlusturma.exe
+E:\staj c#\dosyaOlusturma\dosyaOlusturma\obj\Debug\dosyaOlusturma.pdb
+E:\staj c#\dosyaOlusturma\dosyaOlusturma\bin\Debug\dosyaOlusturma.exe
+E:\staj c#\dosyaOlusturma\dosyaOlusturma\bin\Debug\dosyaOlusturma.pdb
+E:\staj c#\dosyaOlusturma\dosyaOlusturma\obj\Debug\dosyaOlusturma.csprojResolveAssemblyReference.cache
+E:\staj c#\dosyaOlusturma\dosyaOlusturma\obj\Debug\dosyaOlusturma.Form1.resources
+E:\staj c#\dosyaOlusturma\dosyaOlusturma\obj\Debug\dosyaOlusturma.Properties.Resources.resources
+E:\staj c#\dosyaOlusturma\dosyaOlusturma\obj\Debug\dosyaOlusturma.csproj.GenerateResource.Cache
