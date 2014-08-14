@@ -1,0 +1,11 @@
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\bin\Debug\insKay.exe.config
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\bin\Debug\insKay.exe
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\bin\Debug\insKay.pdb
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.Form1.resources
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.pBilgi.resources
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.pKimlik.resources
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.Properties.Resources.resources
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.csproj.GenerateResource.Cache
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.exe
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.pdb

@@ -1,0 +1,31 @@
+c:\users\onur\documents\visual studio 2013\Projects\cv\cv\bin\cv.dll.config
+c:\users\onur\documents\visual studio 2013\Projects\cv\cv\bin\cv.dll
+c:\users\onur\documents\visual studio 2013\Projects\cv\cv\bin\cv.pdb
+c:\users\onur\documents\visual studio 2013\Projects\cv\cv\obj\Debug\cv.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2013\Projects\cv\cv\obj\Debug\cv.dll
+c:\users\onur\documents\visual studio 2013\Projects\cv\cv\obj\Debug\cv.pdb
+C:\Users\Onur\Desktop\yeni web\cv(web)\cv\bin\cv.dll.config
+C:\Users\Onur\Desktop\yeni web\cv(web)\cv\bin\cv.dll
+C:\Users\Onur\Desktop\yeni web\cv(web)\cv\bin\cv.pdb
+C:\Users\Onur\Desktop\yeni web\cv(web)\cv\obj\Debug\cv.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\yeni web\cv(web)\cv\obj\Debug\cv.dll
+C:\Users\Onur\Desktop\yeni web\cv(web)\cv\obj\Debug\cv.pdb
+G:\Onur Bilgisayar\Desktop\yeni web\cv(web)\cv\bin\cv.dll.config
+G:\Onur Bilgisayar\Desktop\yeni web\cv(web)\cv\bin\cv.dll
+G:\Onur Bilgisayar\Desktop\yeni web\cv(web)\cv\bin\cv.pdb
+G:\Onur Bilgisayar\Desktop\yeni web\cv(web)\cv\obj\Debug\cv.csprojResolveAssemblyReference.cache
+G:\Onur Bilgisayar\Desktop\yeni web\cv(web)\cv\obj\Debug\cv.dll
+G:\Onur Bilgisayar\Desktop\yeni web\cv(web)\cv\obj\Debug\cv.pdb
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\bin\cv.dll.config
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\bin\cv.dll
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\bin\cv.pdb
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\bin\mscorlib.dll
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\bin\tr\mscorlib.resources.dll
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\bin\normidna.nlp
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\bin\normnfc.nlp
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\bin\normnfd.nlp
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\bin\normnfkc.nlp
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\bin\normnfkd.nlp
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\obj\Debug\cv.csprojResolveAssemblyReference.cache
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\obj\Debug\cv.dll
+C:\Users\bynMhnds\Desktop\ikys\yeni web\cv(web)\cv\obj\Debug\cv.pdb
