@@ -1,0 +1,98 @@
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\bin\Debug\insKay.exe.config
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\bin\Debug\insKay.exe
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\bin\Debug\insKay.pdb
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.Form1.resources
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.pBilgi.resources
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.pKimlik.resources
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.Properties.Resources.resources
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.csproj.GenerateResource.Cache
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.exe
+c:\users\onur\documents\visual studio 2013\Projects\insKay\insKay\obj\Debug\insKay.pdb
+C:\Users\Onur\Desktop\insKay\insKay\bin\Debug\insKay.exe.config
+C:\Users\Onur\Desktop\insKay\insKay\obj\Debug\insKay.exe
+C:\Users\Onur\Desktop\insKay\insKay\obj\Debug\insKay.pdb
+C:\Users\Onur\Desktop\insKay\insKay\bin\Debug\insKay.exe
+C:\Users\Onur\Desktop\insKay\insKay\bin\Debug\insKay.pdb
+C:\Users\Onur\Desktop\insKay\insKay\obj\Debug\insKay.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\insKay\insKay\obj\Debug\insKay.Form1.resources
+C:\Users\Onur\Desktop\insKay\insKay\obj\Debug\insKay.pBilgi.resources
+C:\Users\Onur\Desktop\insKay\insKay\obj\Debug\insKay.pKimlik.resources
+C:\Users\Onur\Desktop\insKay\insKay\obj\Debug\insKay.Properties.Resources.resources
+C:\Users\Onur\Desktop\insKay\insKay\obj\Debug\insKay.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\insKay\insKay\obj\Debug\insKay.eArama.resources
+C:\Users\Onur\Desktop\yeni web\insKay\insKay\bin\Debug\insKay.exe.config
+C:\Users\Onur\Desktop\yeni web\insKay\insKay\obj\Debug\insKay.exe
+C:\Users\Onur\Desktop\yeni web\insKay\insKay\obj\Debug\insKay.pdb
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\bin\Debug\insKay.exe.config
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.exe
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.pdb
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\bin\Debug\insKay.exe
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\bin\Debug\insKay.pdb
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.Form1.resources
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.eArama.resources
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.pBilgi.resources
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.pKimlik.resources
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.Properties.Resources.resources
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.persEgitimBilgisi.resources
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.cv2.resources
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.cvIs.resources
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\bin\Debug\insKay.exe.config
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.exe
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.pdb
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.csprojResolveAssemblyReference.cache
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.cv2.resources
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.cvIs.resources
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.Form1.resources
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.eArama.resources
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.pBilgi.resources
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.persEgitimBilgisi.resources
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.pKimlik.resources
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.Properties.Resources.resources
+G:\Onur Bilgisayar\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.pArama.resources
+C:\Users\Onur\Desktop\yeni web\insKay(windows)\insKay\obj\Debug\insKay.cvStaj.resources
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\bin\Debug\insKay.exe.config
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.exe
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.pdb
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\bin\Debug\insKay.exe
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\bin\Debug\insKay.pdb
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\bin\Debug\mscorlib.dll
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\bin\Debug\normidna.nlp
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\bin\Debug\normnfc.nlp
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\bin\Debug\normnfd.nlp
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\bin\Debug\normnfkc.nlp
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\bin\Debug\normnfkd.nlp
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.csprojResolveAssemblyReference.cache
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.cv2.resources
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.cvIs.resources
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.cvStaj.resources
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.eArama.resources
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.Form1.resources
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.pArama.resources
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.pBilgi.resources
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.persEgitimBilgisi.resources
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.pKimlik.resources
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.Properties.Resources.resources
+C:\Users\bynMhnds\Desktop\ikys\yeni web\insKay(windows)\insKay\obj\Debug\insKay.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\bin\Debug\insKay.exe.config
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.exe
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.pdb
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\bin\Debug\insKay.exe
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\bin\Debug\insKay.pdb
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.cv2.resources
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.cvIs.resources
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.cvStaj.resources
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.eArama.resources
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.Form1.resources
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.pArama.resources
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.pBilgi.resources
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.persEgitimBilgisi.resources
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.pKimlik.resources
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.Properties.Resources.resources
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\IKYS\insKay(windows)\insKay\obj\Debug\insKay.sirketBilgisi.resources
